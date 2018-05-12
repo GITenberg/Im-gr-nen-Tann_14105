@@ -1,0 +1,37 @@
+_repo: Im-gr-nen-Tann_14105
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Achleitner, Arthur
+    alias: Achleitner, A. (Arthur)
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '5300'
+    url: http://www.gutenberg.org/2009/agents/5300
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Arthur_Achleitner
+    - http://en.wikipedia.org/wiki/Arthur_Achleitner
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14105'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Black Forest (Baden-Württemberg, Germany) -- Fiction'
+- !lcsh 'Germany -- History -- Black Forest insurgencies, 18th and 19th century --
+  Fiction'
+- !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: "Die Herzogskerze\r\nGiftklärle\r\nDer Pelagier"
+title: Im grünen Tann
+url: http://www.gutenberg.org/ebooks/14105
